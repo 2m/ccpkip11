@@ -8,8 +8,7 @@ PKCS #11 driver for CryptoTech smart cards by CryptoTech.
 First generate `.SRCINFO` by:
 
 ```
-pacaur -S pkgbuild-introspection-git
-mksrcinfo
+makepkg --printsrcinfo > .SRCINFO
 ```
 
 Then push to AUR git repository by:
