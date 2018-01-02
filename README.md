@@ -8,7 +8,7 @@ PKCS #11 driver for CryptoTech smart cards by CryptoTech.
 First generate `.SRCINFO` by:
 
 ```
-sudo pacman -S pkgbuild-introspection
+pacaur -S pkgbuild-introspection-git
 mksrcinfo
 ```
 
